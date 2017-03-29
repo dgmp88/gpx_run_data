@@ -6,6 +6,6 @@ Once they've emailed it over, export the zip file here. You should now have a fo
 
 # Requirements
 
-Pandas, numpy, seaborn
+Pandas, numpy, seaborn, jupyter notebook
 
-Install them all with pip or with conda
+Install them all with pip or conda
